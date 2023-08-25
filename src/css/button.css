@@ -1,0 +1,17 @@
+.btn1{
+    border: none;
+    padding: 0.8rem 1rem;
+    background-color: #fcba03;
+    border-radius: 3px;
+}
+.btn1:hover{
+    background-color: #f59e11;
+    color: #fff;
+    transition: all 0.5s ease-out;
+}
+.btn2{
+    border: none;
+    padding: 0.8rem 1.4rem;
+    font-size: 16px;
+    letter-spacing: 1px;
+}

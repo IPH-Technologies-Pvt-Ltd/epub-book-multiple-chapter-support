@@ -1,0 +1,15 @@
+
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    .img1 img{
+      display: block;
+      max-height: 100% !important;
+      width: 100% !important;
+      height: auto !important;
+    }
+
+
